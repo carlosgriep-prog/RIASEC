@@ -1,0 +1,14 @@
+C:\Users\123897624\senai_101225\bin\Debug\net8.0\senai_101225.exe
+C:\Users\123897624\senai_101225\bin\Debug\net8.0\senai_101225.deps.json
+C:\Users\123897624\senai_101225\bin\Debug\net8.0\senai_101225.runtimeconfig.json
+C:\Users\123897624\senai_101225\bin\Debug\net8.0\senai_101225.dll
+C:\Users\123897624\senai_101225\bin\Debug\net8.0\senai_101225.pdb
+C:\Users\123897624\senai_101225\obj\Debug\net8.0\senai_101225.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123897624\senai_101225\obj\Debug\net8.0\senai_101225.AssemblyInfoInputs.cache
+C:\Users\123897624\senai_101225\obj\Debug\net8.0\senai_101225.AssemblyInfo.cs
+C:\Users\123897624\senai_101225\obj\Debug\net8.0\senai_101225.csproj.CoreCompileInputs.cache
+C:\Users\123897624\senai_101225\obj\Debug\net8.0\senai_101225.dll
+C:\Users\123897624\senai_101225\obj\Debug\net8.0\refint\senai_101225.dll
+C:\Users\123897624\senai_101225\obj\Debug\net8.0\senai_101225.pdb
+C:\Users\123897624\senai_101225\obj\Debug\net8.0\senai_101225.genruntimeconfig.cache
+C:\Users\123897624\senai_101225\obj\Debug\net8.0\ref\senai_101225.dll
